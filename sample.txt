@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains a few lines and words.
+Used for testing the Text Analyzer project.
