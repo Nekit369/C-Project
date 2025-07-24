@@ -10,6 +10,7 @@ Welcome to my collection of simple but effective C++ projects focused on file pr
 |:--------|:------------|
 | **Project 4 - Text Analyzer (C++)** | Reads a text file and outputs the number of lines, words, and characters. |
 | **Project 5 - SDL Bouncing Ball (C++)** | A simple SDL2-based animation of a ball bouncing inside a window. |
+| **Project 6 - Two Player Racer (C++)** | A minimal two-player racing demo built with SDL2. |
 
 ---
 
@@ -56,7 +57,4 @@ These mini-projects show:
 - **LinkedIn:** [linkedin.com/in/nickkols369](https://linkedin.com/in/nickkols369)
 - **GitHub:** [github.com/Nekit369](https://github.com/Nekit369)
 
----# Nikita_CPP_Text_Analyzer_and_SDL_Ball
-# CPP_Text_Analyzer_and_SDL_Ball
-# CPP_Text_Analyzer_and_SDL_Ball
-# C-Project
+---
