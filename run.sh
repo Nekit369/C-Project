@@ -9,4 +9,7 @@ echo "Running Project5_SDL_Ball (if built):"
 echo "Running Project6_TwoPlayerRacer (if built):"
 ./Project6_TwoPlayerRacer/two_player_racer || echo "⚠️ Two Player Racer not built or SDL2 not installed."
 
+echo "Running Project7_StarWarsShooter (if built):"
+./Project7_StarWarsShooter/star_shooter || echo "⚠️ Star Shooter not built or SDL2 not installed."
+
 echo "✅ All projects attempted to run!"
